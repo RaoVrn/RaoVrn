@@ -44,6 +44,5 @@ const varun = {
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=RaoVrn&show_icons=true&rank_icon=github&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&show_owner=true"/>
   <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=RaoVrn&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
