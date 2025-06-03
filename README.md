@@ -1,15 +1,38 @@
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 600px; margin: auto; padding: 20px;">
 
-  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Varun Prakash</h1>
+  <h1 style="font-weight: 700; font-size: 2.5rem; margin-bottom: 10px;">
+    Hello!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+         width="35" height="35" alt="waving hand" style="vertical-align: middle; margin-left: 8px;">
+    <br>
+    I'm Varun Prakash
+  </h1>
   
-  <a href="https://linkedin.com/in/varun--prakash/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/RaoVrn">
-    <img src="https://komarev.com/ghpvc/?username=RaoVrn&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  </a>
+  <p style="font-size: 1.25rem; color: #444; margin-bottom: 25px; font-style: italic;">
+    Full Stack Developer | Cloud Enthusiast | 4x Hackathon Winner
+  </p>
   
+  <div>
+    <a href="https://linkedin.com/in/varun--prakash/" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+           alt="LinkedIn Profile">
+    </a>
+    
+  <a href="https://github.com/RaoVrn" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
+      <img src="https://img.shields.io/github/followers/RaoVrn?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers">
+    </a>
+    
+  <a href="https://github.com/RaoVrn" target="_blank" rel="noopener noreferrer" style="margin-right: 12px;">
+      <img src="https://img.shields.io/github/stars/RaoVrn?style=for-the-badge" alt="GitHub Stars">
+    </a>
+
+  <a href="https://github.com/RaoVrn" target="_blank" rel="noopener noreferrer">
+      <img src="https://komarev.com/ghpvc/?username=RaoVrn&style=for-the-badge&color=brightgreen" alt="Profile Views">
+    </a>
+  </div>
+
 </div>
+
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
@@ -18,13 +41,17 @@
 
 ```js
 const varun = {
-  education: 'BTech CSE @ SRM Institute of Science and Technology',
-  interests: ['Full Stack Development'],
-  tech: {
-    backend:  ['Node.js', 'Python', 'Flask'],
-    frontend: ['React', 'Tailwind CSS', 'JavaScript'],
-    databases: ['MySQL', 'MongoDB'],
-  }}
+  education: "BTech CSE @ SRM Institute of Science and Technology",
+  interests: ["Full Stack Development"],
+  techStack: {
+    languages: ["C++", "Python"],
+    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js"],
+    backend: ["Node.js", "Flask", "FastAPI", "SMTP", "Streamlit"],
+    databases: ["MySQL", "MongoDB"],
+    cloudAndDeployments: ["Vercel", "Render", "GitHub Pages"],
+    versionControl: ["Git", "GitHub"]
+  }
+};
 ```
 
 <h2 align="left">
@@ -33,9 +60,9 @@ const varun = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,flask" />
-  <img src="https://skillicons.dev/icons?i=github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vercel,github" />
 </div>
 
 <h2 align="left">
@@ -43,6 +70,15 @@ const varun = {
   GitHub Analytics
 </h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=RaoVrn&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
+<div align="center">
+
+  <!-- Streak Stats (Top) -->
+  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoVrn&theme=tokyonight&hide_border=true" />
+  <br><br>
+
+  <!-- Top Languages and GitHub Stats (Side by side) -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoVrn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=RaoVrn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
