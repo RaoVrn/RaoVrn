@@ -9,7 +9,7 @@
   </h1>
   
   <p style="font-size: 1.25rem; color: #444; margin-bottom: 25px; font-style: italic;">
-    Full Stack Developer | Cloud Enthusiast | 4x Hackathon Winner
+    <i>Full Stack Developer | Cloud Enthusiast | 4x Hackathon Winner</i>
   </p>
   
   <div>
@@ -73,7 +73,7 @@ const varun = {
 <div align="center">
 
   <!-- Streak Stats (Top) -->
-  <img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaoVrn&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=RaoVrn&theme=tokyonight&hide_border=true&background=00000000"/>
   <br><br>
 
   <!-- Top Languages and GitHub Stats (Side by side) -->
