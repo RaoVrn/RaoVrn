@@ -47,7 +47,7 @@ const varun = {
     languages: ["C++", "Python"],
     frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js"],
     backend: ["Node.js", "Flask", "FastAPI", "SMTP", "Streamlit"],
-    databases: ["MySQL", "MongoDB"],
+    databases: ["MySQL", "MongoDB", "supabase"],
     cloudAndDeployments: ["Vercel", "Render", "GitHub Pages"],
     versionControl: ["Git", "GitHub"]
   }
@@ -62,7 +62,7 @@ const varun = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind" />
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel,github" />
 </div>
 
 <h2 align="left">
