@@ -41,15 +41,17 @@
 
 ```js
 const varun = {
-  education: "BTech CSE @ SRM Institute of Science and Technology",
-  interests: ["Full Stack Development"],
+  education: "B.Tech CSE @ SRM Institute of Science and Technology",
+  interests: ["Full Stack Development", "DevOps", "Cloud Computing", "Open Source"],
   techStack: {
-    languages: ["C++", "Python"],
-    frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js"],
+    languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+    frontend: ["HTML", "CSS", "Tailwind CSS", "React.js", "Next.js", "Vite"],
     backend: ["Node.js", "Flask", "FastAPI", "SMTP", "Streamlit"],
-    databases: ["MySQL", "MongoDB", "supabase"],
+    databases: ["MySQL", "MongoDB", "Supabase"],
     cloudAndDeployments: ["Vercel", "Render", "GitHub Pages"],
-    versionControl: ["Git", "GitHub"]
+    devTools: ["Postman", "Selenium", "npm", "yarn"],
+    versionControl: ["Git", "GitHub", "GitLab"],
+    others: ["Figma", "Discord", "VS Code", "PowerShell", "Windows"]
   }
 };
 ```
@@ -60,10 +62,34 @@ const varun = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwind" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel,github" />
+  <!-- Web Fundamentals -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  
+  <!-- Frontend Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite" />
+  
+  <!-- Backend Technologies -->
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" />
+  
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  
+  <!-- Databases & Hosting -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,vercel" />
+  
+  <!-- Dev Tools & Package Managers -->
+  <img src="https://skillicons.dev/icons?i=npm,yarn,postman,selenium" />
+  
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  
+  <!-- Productivity & Communication -->
+  <img src="https://skillicons.dev/icons?i=figma,discord,gmail,instagram,linkedin" />
+  
+  <!-- Environment & Editors -->
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,windows" />
 </div>
+
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
