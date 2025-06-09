@@ -48,7 +48,7 @@ const varun = {
     frontend: ["HTML", "CSS", "Tailwind CSS", "React.js", "Next.js", "Vite"],
     backend: ["Node.js", "Flask", "FastAPI", "SMTP", "Streamlit"],
     databases: ["MySQL", "MongoDB", "Supabase"],
-    cloudAndDeployments: ["Vercel", "Render", "GitHub Pages"],
+    cloudAndDeployments: ["Vercel", "Render", "GitHub Pages", "ngrok"],
     devTools: ["Postman", "Selenium", "npm", "yarn"],
     versionControl: ["Git", "GitHub", "GitLab"],
     others: ["Figma", "Discord", "VS Code", "PowerShell", "Windows"]
