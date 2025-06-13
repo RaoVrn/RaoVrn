@@ -45,7 +45,7 @@ const varun = {
   interests: ["Full Stack Development", "DevOps", "Cloud Computing", "Open Source"],
   techStack: {
     languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
-    frontend: ["HTML", "CSS", "Tailwind CSS", "React.js", "Next.js", "Vite"],
+    frontend: ["HTML", "CSS", "Tailwind CSS", "SCSS", "React.js", "Next.js", "Vite"],
     backend: ["Node.js", "Flask", "FastAPI", "SMTP", "Streamlit"],
     databases: ["MySQL", "MongoDB", "Supabase"],
     cloudAndDeployments: ["Vercel", "Render", "GitHub Pages", "ngrok"],
@@ -63,7 +63,7 @@ const varun = {
 
 <div align="center">
   <!-- Web Fundamentals -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,scss,js,ts" />
   
   <!-- Frontend Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite" />
